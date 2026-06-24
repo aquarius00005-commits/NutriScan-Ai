@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI",
+  "description": "AI-powered food scanner and nutritional tracker mimicking premium AI vision-based Cal AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
